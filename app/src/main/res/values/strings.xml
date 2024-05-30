@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Plant</string>
+    <string name="plant_name">Название растения</string>
+    <string name="plant_type">Разновидность растения</string>
+    <string name="plant_greenhouse">Тепличное растение</string>
+    <string name="save">Сохранить</string>
+    <string name="plant_list">Список растений</string>
+</resources>
